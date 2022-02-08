@@ -1,0 +1,48 @@
+let data = [
+  {
+    id: 1,
+    img: "images/shirt.jpg",
+    name: "Shirt",
+    slug: "Shirt",
+    description: "Full Sleeve Cotton Formal Shirts For Man",
+    price: "550",
+    rating: "5",
+    numberofrating: "120",
+    instock: "50",
+  },
+  {
+    id: 2,
+    img: "images/pant.jpg",
+    name: "Pant",
+    slug: "Pant",
+    description: "Gabardine Pant For Men Wearable In All Season",
+    price: "600",
+    rating: "4",
+    numberofrating: "100",
+    instock: "70",
+  },
+  {
+    id: 3,
+    img: "images/shoe.jpg",
+    name: "Shoe",
+    slug: "Shoe",
+    description: "Formal Leather Loafer for Men Wearable in All Season",
+    price: "1100",
+    rating: "4.5",
+    numberofrating: "130",
+    instock: "100",
+  },
+  {
+    id: 4,
+    img: "images/watch.jpg",
+    name: "Watch",
+    slug: "Watch",
+    description: "LouisWill Waterproof Watch Stainless Steel for Men",
+    price: "1000",
+    rating: "5",
+    numberofrating: "140",
+    instock: "0",
+  },
+];
+
+export default data;
